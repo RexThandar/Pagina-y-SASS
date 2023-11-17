@@ -1,0 +1,9 @@
+footer {
+    clear: both; /* envia el footer abajo luego de hacerle overflow hidden al contenedor padre*/
+    /* overflow: hidden;  tambien sirve como el clear both */ 
+    width: 100%;
+    background: #000;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+}
